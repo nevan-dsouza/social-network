@@ -9,8 +9,6 @@ This is the backend for a social networking app. It interacts with a MongoDB dat
 A video walkthrough has been recorded to demonstrate its functions. 
 
 > Github Repository Link: [https://github.com/nevan-dsouza/social-network](https://github.com/nevan-dsouza/social-network)
->
-> Video Link: []()
 
 ## Table of Contents
 
